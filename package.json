@@ -1,7 +1,7 @@
 {
-  "name": "rollup-plugin-sass",
+  "name": "@quadorg/rollup-plugin-sass",
   "scope": "quadorg",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "access": "public",
   "description": "Rollup .sass files.",
   "main": "dist/rollup-plugin-sass.cjs.js",
